@@ -5,9 +5,9 @@ Developer
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andreuetsanz&label=Profile%20views&color=0e75b6&style=flat" alt="andreuetsanz" /> </p>
 
-        *   🌍  I'm based in Gandia/Valencia
-        *   ✉️  You can contact me at [sanzandreusanz@gmial.com](mailto:sanzandreusanz@gmial.com)
-        *   🧠  I'm learning Artificial Inteligene anb Big Data
+  *   🌍  I'm based in Gandia/Valencia
+  *   ✉️  You can contact me at [sanzandreusanz@gmial.com](mailto:sanzandreusanz@gmial.com)
+  *   🧠  I'm learning Artificial Inteligene anb Big Data  
 ### Technologies That I Know👨🏻‍💻 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -22,7 +22,7 @@ Developer
 <p align="center">
   <!--- stats (start) -->
 <table align="center">
-<tr border="none">
+<tr border = "none">
 <td width="50%" align="center">
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=andreuetsanz&theme=dark&show_icons=true&count_private=true" />
