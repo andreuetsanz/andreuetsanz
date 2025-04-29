@@ -6,7 +6,7 @@ Developer
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andreuetsanz&label=Profile%20views&color=0e75b6&style=flat" alt="andreuetsanz" /> </p>
 
   *   🌍  I'm based in Gandia/Valencia
-  *   ✉️  You can contact me at [sanzandreusanz@gmial.com](mailto:sanzandreusanz@gmail.com)
+  *   ✉️  You can contact me at [sanzandreusanz@gmail.com](mailto:sanzandreusanz@gmail.com)
   *   🧠  I'm learning Artificial Inteligene anb Big Data  
 ### Technologies That I Know👨🏻‍💻 
 <p align="center">
