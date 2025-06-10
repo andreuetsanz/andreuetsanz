@@ -23,7 +23,7 @@ Developer
       <td width="50%" align="center">
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=andreuetsanz&theme=dark&show_icons=true&count_private=true" />
         <br></br>
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andreuetsanz&theme=dark&hide_border=false" /> 
+        <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-green-nu.vercel.app?user=andreuetsanz&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
       </td>
       <td width="50%" align="center">
         <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=andreuetsanz&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
