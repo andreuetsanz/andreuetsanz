@@ -31,7 +31,7 @@ Developer
       </td>
       <td width="50%" align="center" style="border: none;">
         <!-- Top Langs -->
-        <img align="center" src="https://github-readme-stats-andreuetsanzs-projects.vercel.app/api/top-langs/?username=andreuetsanz&theme=dark&no-bg=true&no-frame=true&langs_count=6&layout=donut-vertical&hide_border=true&count_private=true" />
+        <img align="center" src="https://github-readme-stats-andreuetsanzs-projects.vercel.app/api/top-langs/?username=andreuetsanz&theme=dark&no-bg=true&no-frame=true&langs_count=6&layout=donut-vertical&hide_border=true&exclude_repo=OCTO3D&count_private=true" />
       </td>
     </tr>
   </table>
