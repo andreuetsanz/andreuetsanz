@@ -18,16 +18,22 @@ Developer
 ### Badges
 <b>My GitHub Stats</b>
 <p align="center">
-  <table align="center">
-    <tr border="none">
-      <td width="50%" align="center">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=andreuetsanz&theme=dark&show_icons=true&count_private=true" />
-        <br></br>
-        <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-green-nu.vercel.app?user=andreuetsanz&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
+  <table align="center" style="border: none;">
+    <tr>
+      <td width="50%" align="center" style="border: none;">
+        <!-- GitHub Stats -->
+        <img align="center" src="https://github-readme-stats-andreuetsanzs-projects.vercel.app/api?username=andreuetsanz&theme=dark&show_icons=true&hide_border=true&count_private=true" />
+        <br><br>
+        <!-- Streak Stats -->
+        <a href="https://git.io/streak-stats">
+          <img src="https://github-readme-streak-stats-green-nu.vercel.app?user=andreuetsanz&theme=dark&hide_border=true" alt="GitHub Streak" />
+        </a>
       </td>
-      <td width="50%" align="center">
-        <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=andreuetsanz&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+      <td width="50%" align="center" style="border: none;">
+        <!-- Top Langs -->
+        <img align="center" src="https://github-readme-stats-andreuetsanzs-projects.vercel.app/api/top-langs/?username=andreuetsanz&theme=dark&no-bg=true&no-frame=true&langs_count=6&layout=donut-vertical&hide_border=true&count_private=true" />
       </td>
     </tr>
   </table>
 </p>
+
